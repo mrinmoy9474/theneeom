@@ -773,7 +773,7 @@ const Index = () => {
                 </div>
                 <div className="flex items-center gap-3">
                   <Mail size={16} className="text-coral-300 flex-shrink-0" />
-                  <span className="text-gray-300">info@theneeom.com</span>
+                  <span className="text-gray-300">support@theneeom.com</span>
                 </div>
               </div>
             </div>
