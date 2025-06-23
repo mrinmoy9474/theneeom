@@ -29,11 +29,13 @@ const Index = () => {
             <div className="flex items-center gap-6 text-pearl-600">
               <div className="flex items-center gap-2">
                 <Phone size={14} />
-                <span>+1 (555) 123-4567</span>
+                <span>
+                  <p>+1 (555) 123-4567</p>
+                </span>
               </div>
               <div className="flex items-center gap-2">
                 <Mail size={14} />
-                <span>info@theneeom.com</span>
+                <span>support@theneeom.com</span>
               </div>
             </div>
             <div className="flex items-center gap-3">
