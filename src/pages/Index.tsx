@@ -224,7 +224,8 @@ const Index = () => {
                   </div>
                   <div className="flex items-center justify-between">
                     <div className="text-2xl font-bold text-coral-300">
-                      $299<span className="text-sm text-pearl-600">/night</span>
+                      <p>₹1000</p>
+                      <span className="text-sm text-pearl-600">/night</span>
                     </div>
                     <Button className="bg-coral-300 hover:bg-coral-400">
                       View Details
@@ -263,7 +264,8 @@ const Index = () => {
                   </div>
                   <div className="flex items-center justify-between">
                     <div className="text-2xl font-bold text-coral-300">
-                      $449<span className="text-sm text-pearl-600">/night</span>
+                      <p>₹1500</p>
+                      <span className="text-sm text-pearl-600">/night</span>
                     </div>
                     <Button className="bg-coral-300 hover:bg-coral-400">
                       View Details
@@ -305,7 +307,8 @@ const Index = () => {
                   </div>
                   <div className="flex items-center justify-between">
                     <div className="text-2xl font-bold text-coral-300">
-                      $699<span className="text-sm text-pearl-600">/night</span>
+                      <p>₹2000</p>
+                      <span className="text-sm text-pearl-600">/night</span>
                     </div>
                     <Button className="bg-coral-300 hover:bg-coral-400">
                       View Details
