@@ -33,7 +33,7 @@ const Index = () => {
               </div>
               <div className="flex items-center gap-2">
                 <Mail size={14} />
-                <span>info@luxehotel.com</span>
+                <span>info@theneeom.com</span>
               </div>
             </div>
             <div className="flex items-center gap-3">
@@ -55,7 +55,7 @@ const Index = () => {
           {/* Main navigation */}
           <nav className="flex items-center justify-between py-4">
             <div className="text-2xl font-bold text-foreground">
-              <span className="text-coral-300">LUXE</span> HOTEL
+              <span className="text-coral-300">TheNeeom</span>
             </div>
             <div className="hidden md:flex items-center space-x-8">
               <a href="#" className="text-coral-300 font-semibold">
@@ -321,7 +321,7 @@ const Index = () => {
             <div className="text-center mb-16">
               <h2 className="text-4xl md:text-5xl font-bold text-foreground mb-4">
                 Reasons to Choose{" "}
-                <span className="text-coral-300">Luxe Hotel</span>
+                <span className="text-coral-300">TheNeeom</span>
               </h2>
               <p className="text-lg text-pearl-600 max-w-2xl mx-auto">
                 Discover the amenities that make your stay unforgettable
@@ -536,7 +536,7 @@ const Index = () => {
           <div className="container mx-auto px-4">
             <div className="text-center mb-16">
               <h2 className="text-4xl md:text-5xl font-bold text-foreground mb-4">
-                Luxe Hotel -{" "}
+                TheNeeom -{" "}
                 <span className="text-coral-300">The Experience</span>
               </h2>
               <p className="text-lg text-pearl-600 max-w-2xl mx-auto">
@@ -661,7 +661,7 @@ const Index = () => {
           <div className="grid md:grid-cols-4 gap-8">
             <div>
               <h3 className="text-2xl font-bold mb-4">
-                <span className="text-coral-300">LUXE</span> HOTEL
+                <span className="text-coral-300">TheNeeom</span>
               </h3>
               <p className="text-gray-300 mb-4">
                 Where luxury meets comfort in the heart of the city. Experience
@@ -771,7 +771,7 @@ const Index = () => {
                 </div>
                 <div className="flex items-center gap-3">
                   <Mail size={16} className="text-coral-300 flex-shrink-0" />
-                  <span className="text-gray-300">info@luxehotel.com</span>
+                  <span className="text-gray-300">info@theneeom.com</span>
                 </div>
               </div>
             </div>
@@ -779,7 +779,7 @@ const Index = () => {
 
           <div className="border-t border-gray-700 mt-12 pt-8 flex flex-col md:flex-row justify-between items-center">
             <p className="text-gray-300">
-              © 2024 Luxe Hotel. All rights reserved.
+              © 2024 TheNeeom. All rights reserved.
             </p>
             <div className="flex gap-6 mt-4 md:mt-0">
               <a
