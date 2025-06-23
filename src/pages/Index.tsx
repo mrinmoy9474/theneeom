@@ -30,7 +30,7 @@ const Index = () => {
               <div className="flex items-center gap-2">
                 <Phone size={14} />
                 <span>
-                  <p>+1 (555) 123-4567</p>
+                  <p>+971 (56) 394-5243</p>
                 </span>
               </div>
               <div className="flex items-center gap-2">
@@ -769,7 +769,9 @@ const Index = () => {
                 </div>
                 <div className="flex items-center gap-3">
                   <Phone size={16} className="text-coral-300 flex-shrink-0" />
-                  <span className="text-gray-300">+1 (555) 123-4567</span>
+                  <span className="text-gray-300">
+                    <p>+971 (56) 394-4567</p>
+                  </span>
                 </div>
                 <div className="flex items-center gap-3">
                   <Mail size={16} className="text-coral-300 flex-shrink-0" />
