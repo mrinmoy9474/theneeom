@@ -459,11 +459,13 @@ const Index = () => {
                   </p>
                   <div className="flex items-center gap-3">
                     <div className="w-10 h-10 bg-coral-100 rounded-full flex items-center justify-center">
-                      <span className="text-coral-300 font-semibold">JD</span>
+                      <span className="text-coral-300 font-semibold">
+                        <p>MM</p>
+                      </span>
                     </div>
                     <div>
                       <div className="font-semibold text-foreground">
-                        John Davis
+                        <p>Mrinmoy M</p>
                       </div>
                       <div className="text-sm text-pearl-600">
                         Business Traveler
@@ -493,7 +495,7 @@ const Index = () => {
                     </div>
                     <div>
                       <div className="font-semibold text-foreground">
-                        Sarah Martinez
+                        <p>Sumit M</p>
                       </div>
                       <div className="text-sm text-pearl-600">
                         Honeymoon Guest
@@ -519,11 +521,13 @@ const Index = () => {
                   </p>
                   <div className="flex items-center gap-3">
                     <div className="w-10 h-10 bg-coral-100 rounded-full flex items-center justify-center">
-                      <span className="text-coral-300 font-semibold">RJ</span>
+                      <span className="text-coral-300 font-semibold">
+                        <p>SM</p>
+                      </span>
                     </div>
                     <div>
                       <div className="font-semibold text-foreground">
-                        Robert Johnson
+                        <p>Sayan M</p>
                       </div>
                       <div className="text-sm text-pearl-600">
                         Weekend Guest
@@ -767,7 +771,10 @@ const Index = () => {
                 <div className="flex items-center gap-3">
                   <MapPin size={16} className="text-coral-300 flex-shrink-0" />
                   <span className="text-gray-300">
-                    123 Luxury Avenue, Downtown City, DC 12345
+                    <p>
+                      Malda Bypass Rd, Gabgachchhi, Gabgachhi, West Bengal
+                      732103
+                    </p>
                   </span>
                 </div>
                 <div className="flex items-center gap-3">
@@ -786,7 +793,7 @@ const Index = () => {
 
           <div className="border-t border-gray-700 mt-12 pt-8 flex flex-col md:flex-row justify-between items-center">
             <p className="text-gray-300">
-              © 2024 TheNeeom. All rights reserved.
+              <p>© 2025 TheNeeom. All rights reserved.</p>
             </p>
             <div className="flex gap-6 mt-4 md:mt-0">
               <a
