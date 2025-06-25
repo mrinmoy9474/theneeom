@@ -224,6 +224,7 @@ const Index = () => {
                   </div>
                   <div className="flex items-center justify-between">
                     <div className="text-2xl font-bold text-coral-300">
+                      <p>Coming Soon</p>
                       <p>₹1000</p>
                       <span className="text-sm text-pearl-600">/night</span>
                     </div>
@@ -264,6 +265,7 @@ const Index = () => {
                   </div>
                   <div className="flex items-center justify-between">
                     <div className="text-2xl font-bold text-coral-300">
+                      <p>Coming Soon</p>
                       <p>₹1500</p>
                       <span className="text-sm text-pearl-600">/night</span>
                     </div>
@@ -307,6 +309,7 @@ const Index = () => {
                   </div>
                   <div className="flex items-center justify-between">
                     <div className="text-2xl font-bold text-coral-300">
+                      <p>Coming Soon</p>
                       <p>₹2000</p>
                       <span className="text-sm text-pearl-600">/night</span>
                     </div>
