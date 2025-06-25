@@ -16,6 +16,7 @@ import {
   Facebook,
   Twitter,
   Instagram,
+  Crown,
 } from "lucide-react";
 
 const Index = () => {
@@ -56,7 +57,8 @@ const Index = () => {
 
           {/* Main navigation */}
           <nav className="flex items-center justify-between py-4">
-            <div className="text-2xl font-bold text-foreground">
+            <div className="flex items-center gap-3 text-2xl font-bold text-foreground">
+              <Crown className="w-8 h-8 text-coral-300" />
               <span className="text-coral-300">TheNeeom</span>
             </div>
             <div className="hidden md:flex items-center space-x-8">
