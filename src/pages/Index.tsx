@@ -58,11 +58,7 @@ const Index = () => {
           {/* Main navigation */}
           <nav className="flex items-center justify-between py-4">
             <div className="flex items-center gap-3 text-2xl font-bold text-foreground">
-              <img
-                src="https://cdn.builder.io/api/v1/image/assets%2Faad9e282c5cb4f4a92f16c759157d47b%2F9ea29b4076e24f519408453a9e5c83f5?format=webp&width=100"
-                alt="TheNeeom Logo"
-                className="w-8 h-8 object-contain"
-              />
+              <Crown className="w-8 h-8 text-coral-300" />
               <span className="text-coral-300">TheNeeom</span>
             </div>
             <div className="hidden md:flex items-center space-x-8">
