@@ -224,14 +224,14 @@ const Index = () => {
                   </div>
                   <div className="flex items-center justify-between">
                     <div className="text-2xl font-bold text-coral-300">
-                      <p><br /></p>
-                      <p><br /></p>
-                      <p>Coming Soon</p><span className="text-sm text-pearl-600">/night</span>
-                    </div>
-                      <p>Coming Soon</p><span className="text-sm text-pearl-600">/night</span>
-                    </div>
-                      <p>Coming Soon</p><span className="text-sm text-pearl-600">/night</span>
-                    </div>
+                      <div>
+                        <br />
+                      </div>
+                      <div>
+                        <br />
+                      </div>
+                      <div>Coming Soon</div>
+                      <span className="text-sm text-pearl-600">/night</span>
                     </div>
                     <Button className="bg-coral-300 hover:bg-coral-400">
                       View Details
@@ -270,8 +270,14 @@ const Index = () => {
                   </div>
                   <div className="flex items-center justify-between">
                     <div className="text-2xl font-bold text-coral-300">
-                      <p>Coming Soon</p>
-                      <p>₹1500</p><span className="text-sm text-pearl-600">/night</span>
+                      <div>
+                        <br />
+                      </div>
+                      <div>
+                        <br />
+                      </div>
+                      <div>Coming Soon</div>
+                      <span className="text-sm text-pearl-600">/night</span>
                     </div>
                     <Button className="bg-coral-300 hover:bg-coral-400">
                       View Details
@@ -313,8 +319,14 @@ const Index = () => {
                   </div>
                   <div className="flex items-center justify-between">
                     <div className="text-2xl font-bold text-coral-300">
-                      <p>Coming Soon</p>
-                      <p>₹2000</p><span className="text-sm text-pearl-600">/night</span>
+                      <div>
+                        <br />
+                      </div>
+                      <div>
+                        <br />
+                      </div>
+                      <div>Coming Soon</div>
+                      <span className="text-sm text-pearl-600">/night</span>
                     </div>
                     <Button className="bg-coral-300 hover:bg-coral-400">
                       View Details
@@ -465,7 +477,9 @@ const Index = () => {
                   </p>
                   <div className="flex items-center gap-3">
                     <div className="w-10 h-10 bg-coral-100 rounded-full flex items-center justify-center">
-                      <span className="text-coral-300 font-semibold"><p>MM</p></span>
+                      <span className="text-coral-300 font-semibold">
+                        <p>MM</p>
+                      </span>
                     </div>
                     <div>
                       <div className="font-semibold text-foreground">
@@ -525,7 +539,9 @@ const Index = () => {
                   </p>
                   <div className="flex items-center gap-3">
                     <div className="w-10 h-10 bg-coral-100 rounded-full flex items-center justify-center">
-                      <span className="text-coral-300 font-semibold"><p>SM</p></span>
+                      <span className="text-coral-300 font-semibold">
+                        <p>SM</p>
+                      </span>
                     </div>
                     <div>
                       <div className="font-semibold text-foreground">
@@ -773,12 +789,17 @@ const Index = () => {
                 <div className="flex items-center gap-3">
                   <MapPin size={16} className="text-coral-300 flex-shrink-0" />
                   <span className="text-gray-300">
-                    <p>Malda Bypass Rd, Gabgachchhi, Gabgachhi, West Bengal 732103</p>
+                    <p>
+                      Malda Bypass Rd, Gabgachchhi, Gabgachhi, West Bengal
+                      732103
+                    </p>
                   </span>
                 </div>
                 <div className="flex items-center gap-3">
                   <Phone size={16} className="text-coral-300 flex-shrink-0" />
-                  <span className="text-gray-300"><p>+971 (56) 394-4567</p></span>
+                  <span className="text-gray-300">
+                    <p>+971 (56) 394-4567</p>
+                  </span>
                 </div>
                 <div className="flex items-center gap-3">
                   <Mail size={16} className="text-coral-300 flex-shrink-0" />
