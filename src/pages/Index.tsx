@@ -152,7 +152,7 @@ const Index = () => {
               <div className="grid grid-cols-2 md:grid-cols-4 gap-8 mt-16">
                 <div className="text-center">
                   <div className="text-3xl font-bold text-coral-300 mb-2">
-                    10+
+                    150+
                   </div>
                   <div className="text-pearl-600">Luxury Suites</div>
                 </div>
